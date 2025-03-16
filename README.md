@@ -1,5 +1,5 @@
 # Tableau-Dashboards
-# 📊 Análisis de Ventas en Restaurante
+# 📊 Restaurant Sales Analysis
 
 This repository has an interactive dashboard created on **Tableau Public** to analize sales of a mexican restaurant.
 
